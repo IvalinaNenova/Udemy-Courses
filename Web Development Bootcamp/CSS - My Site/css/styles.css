@@ -69,7 +69,11 @@ a:hover {
   margin: 0 auto;
   width: 50%;
 }
-
+.titles{
+  width: 50%;
+  margin: auto;
+  font-size: 2rem;
+}
 .intro {
   width: 50%;
   margin: auto;
@@ -89,7 +93,8 @@ a:hover {
 
 .copyright {
   color: #EAF6F6;
-  font-size: 11px;
+  font-size: 0.75rem;
+  padding: 20px 0;
 }
 
 .profile-pic {
