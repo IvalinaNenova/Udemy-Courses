@@ -37,7 +37,7 @@ p {
 }
 
 a {
-  color: #66BFBF;
+  color: #CDF0EA;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -45,6 +45,28 @@ a {
 
 a:hover {
   color: white;
+}
+nav {
+  background-color: #CDF0EA;
+  display: flex;
+  font-size: 16px;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 5px 0 3px;
+  margin: 0%;
+  color: white;
+}
+nav ul li {
+  display: inline
+}
+
+nav a {
+  text-decoration: none;
+  color: #11999E;
+  font-size: 20px;
+  font-weight: bolder;
+  position: relative;
+  margin: 20px;
 }
 
 .top-container {
@@ -152,3 +174,5 @@ a:hover {
   background-image: linear-gradient(to bottom, #E9DAC1, #F7ECDE);
   text-decoration: none;
 }
+
+
