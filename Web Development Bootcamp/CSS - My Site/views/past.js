@@ -22,14 +22,16 @@ const pastTemplate = () => html`
         </p>
         <p>Although being a casino dealer is not a transferable skill, working on board has tought me to be
             responsible, disciplined, respectfull and to always strive to be better. Also, how to be a team player, to
-            adapt to an ever changing environment and to provide excelent custommer service. <a
+            adapt to an ever changing environment and to provide excelent custommer service. If you don't believe me, <a
                 href="https://www.linkedin.com/pulse/why-ex-cruise-ship-employees-make-best-employment-candidates-ahire/?trackingId=V64r3JR8abjXSoCv9roqEA%3D%3D">Here's</a>
             an article about why ex-cruise ship employees make the Best employment candidates.</p>
     </div>
     <hr>
     <div class="skill-row">
         <h3 class="multi-img">2004-Present</h3>
-        <p>Hotel Perla is 
+        <p>Hotel Perla is a family owned and operated business that's been in my family for nearly 20 years. I've been a
+            part of every aspect of running a small business, from accounting to maintainace to managing people and
+            providing a great service to our customers. 
 
         </p>
     </div>
